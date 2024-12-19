@@ -6,7 +6,7 @@ Welcome to the **Bug Bounty Approach and Method** repository! This project provi
 
 ## Repository Contents
 
-### **1. approach.md**
+### [**1. Approach.md**](https://github.com/the-alkemistx/Bug-Bounty-Methodology/blob/main/Approach.md)
 This file contains a step-by-step bug bounty approach designed to help hunters:
 - Build an effective workflow.
 - Focus on high-probability and high-impact vulnerabilities.
@@ -20,7 +20,7 @@ Key highlights:
 - Advanced techniques and tips to maximize productivity.
 - Strategies to scale and prioritize programs effectively.
 
-### **2. method.md**
+### [**2. method.md**](https://github.com/the-alkemistx/Bug-Bounty-Methodology/blob/main/Method.md)
 This file delves into the detailed testing methodology, including:
 - Tools and commands for each phase of testing.
 - Tricks to automate repetitive tasks.
