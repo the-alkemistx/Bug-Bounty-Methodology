@@ -49,7 +49,7 @@ Before diving in, ensure you have:
 ### **Usage**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bug-bounty-methodology.git
+   git clone https://github.com/the-alkemistx/bug-bounty-methodology.git
    ```
 2. Navigate to the repository:
    ```bash
